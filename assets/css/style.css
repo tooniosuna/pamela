@@ -19,13 +19,13 @@
 --------------------------------------------------------------*/
 :root {
   --careon-font: "Roboto", serif;
-  --careon-gray: #4A5B80;
+  --careon-gray: #D2649A;
   --careon-gray-rgb: 74, 91, 128;
-  --careon-base: #006D77;
+  --careon-base: #C9A3CC;
   --careon-base-rgb: 0, 109, 119;
-  --careon-primary: #BEE1E6;
+  --careon-primary: #F3EDF4;
   --careon-primary-rgb: 190, 225, 230;
-  --careon-black: #031B4E;
+  --careon-black: #4B3C53;
   --careon-black-rgb: 3, 27, 78;
   --careon-white: #ffffff;
   --careon-white-rgb: 255, 255, 255;
