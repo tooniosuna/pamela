@@ -3,7 +3,7 @@ body .site-footer__bottom-inner,
 .site-footer__newsletter-inner,
 .services-one__single,
 .main-menu__wrapper-inner {
-    background-color: #011030;
+    background-color: #EA008A;
 }
 
 
@@ -16,16 +16,16 @@ body .site-footer__bottom-inner,
 .brand-one,
 .about-one__working-hour,
 .about-one__content-box {
-    background-color: #04163c;
+    background-color: #EA008A;
 }
 
 .stricky-header.main-menu {
-    background-color: #011030;
+    background-color: #EA008A;
 }
 
 .banner-one {
     background: transparent;
-    background-color: #04163c;
+    background-color: #EA008A;
 }
 
 .banner-one__call-icon {
@@ -34,7 +34,7 @@ body .site-footer__bottom-inner,
 }
 
 .banner-one__find-doctor {
-    background-color: #011030;
+    background-color: #EA008A;
     border: 1px solid rgba(var(--careon-white-rgb), .20);
 }
 
