@@ -32,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #FFF3EA;
+    background-color: #F3EDF4;
     padding: 40px 60px 40px;
     border-radius: var(--careon-bdr-radius);
     z-index: 1;

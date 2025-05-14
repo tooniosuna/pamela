@@ -20,13 +20,13 @@
 :root {
   --careon-font: "Roboto", serif;
   --careon-gray: #EA008A;
-  --careon-gray-rgb: 74, 91, 128;
+  --careon-gray-rgb: 234, 0, 138;
   --careon-base: #C9A3CC;
-  --careon-base-rgb: 0, 109, 119;
+  --careon-base-rgb: 201, 163, 204;
   --careon-primary: #F3EDF4;
-  --careon-primary-rgb: 190, 225, 230;
+  --careon-primary-rgb: 243, 237, 244;
   --careon-black: #4B3C53;
-  --careon-black-rgb: 3, 27, 78;
+  --careon-black-rgb: 75, 60, 83;
   --careon-white: #ffffff;
   --careon-white-rgb: 255, 255, 255;
   --careon-extra: #F2F4F7;
