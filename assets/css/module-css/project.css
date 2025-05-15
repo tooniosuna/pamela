@@ -33,7 +33,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(180deg, rgba(0, 109, 119, 0) 37.58%, #C9A3CC 100%);
+    background: linear-gradient(180deg, rgba(0, 109, 119, 0) 37.58%, #F3EDF4 100%);
     background-position: center bottom;
     transition-delay: .1s;
     transition-timing-function: ease-in-out;
