@@ -54,7 +54,7 @@
     justify-content: center;
     width: 75px;
     height: 75px;
-    background-color: #C9A3CC;
+    background-color: #06abeb;
     border-radius: 50%;
     z-index: 1;
 }
@@ -395,7 +395,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(270deg, rgba(0, 109, 119, 0) -95%, #C9A3CC 65%);
+    background: linear-gradient(270deg, rgba(0, 109, 119, 0) -95%, #06abeb 65%);
 }
 
 .services-three__get-a-quote-sub-title {
